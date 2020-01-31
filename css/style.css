@@ -4,12 +4,9 @@ body {
     color: #333333;
     margin: 0%;
     padding: 0%;
-    
 }
 
-a {
-    color: #d21035;
-}
+
 header {
     color: #efeee7;
     background-color: #333333;
@@ -25,6 +22,10 @@ h1 {
 
 h2 {
     font-size: 24px;
+}
+
+a {
+    color: #d21035;
 }
 
 .container {
